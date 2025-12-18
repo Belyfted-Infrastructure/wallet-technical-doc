@@ -1,4 +1,4 @@
-# Belyfted Multicurrency Wallet & Account Management System Documentation
+# Belyfted Multicurrency Wallet & Account Management System Technical Documentation
 
 ## Table of Contents
 1. [Overview](#overview)
